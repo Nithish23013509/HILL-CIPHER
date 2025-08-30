@@ -6,7 +6,7 @@ EX. NO: 3 AIM:
 IMPLEMENTATION OF HILL CIPHER
  
 ## To write a C program to implement the hill cipher substitution techniques.
-
+ 
 ## DESCRIPTION:
 
 Each letter is represented by a number modulo 26. Often the simple scheme A = 0, B
